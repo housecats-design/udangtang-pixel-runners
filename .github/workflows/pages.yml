@@ -28,6 +28,8 @@ jobs:
       - run: npm ci
       - run: npm test
       - run: npm run build -- --base=./
+      - name: Connect the legacy address to Udangtang Game Room
+        run: cp game-room-redirect.html dist/index.html
       - uses: actions/upload-pages-artifact@fc324d3547104276b827a68afc52ff2a11cc49c9 # v5
         with:
           path: dist
