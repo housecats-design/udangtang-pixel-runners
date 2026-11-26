@@ -1,9 +1,9 @@
 {
-  "version": "1.1.14",
-  "source_commit": "87961226d06f75af3e596b33a230cdcd408b5af7",
+  "version": "1.1.15",
+  "source_commit": "e2f44e028cdf8c83462c32cd186f0f4a3e62bbac",
   "canonical_url": "https://udangtang-pixel-runners.housecats850262.chatgpt.site",
-  "archive_sha256": "e105161a089ab6c15fb08cd19e4a40ec53a4e4aadb21902a10c04a676c9546d6",
-  "archive_bytes": 9777401,
+  "archive_sha256": "ef36dba52ee3c2cb1c66a800c0158d5c3abb102f8f1cf2ef200cf23ceea696a0",
+  "archive_bytes": 9875852,
   "omitted_source_only_media": [
     "motion-sources/higgsfield/01-core.png",
     "motion-sources/higgsfield/02-events.png",
